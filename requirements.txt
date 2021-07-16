@@ -1,0 +1,7 @@
+
+Flask
+Flask-SQLAlchemy
+flask-cors
+SQLAlchemy-serializer
+flask_marshmallow
+marshmallow-sqlalchemy
